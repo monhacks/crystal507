@@ -1,4 +1,4 @@
-PYTHON := python
+PYTHON := python2
 
 .SUFFIXES:
 .SUFFIXES: .asm .tx .o .gbc .png .2bpp .1bpp .lz .pal .bin .blk .tilemap
